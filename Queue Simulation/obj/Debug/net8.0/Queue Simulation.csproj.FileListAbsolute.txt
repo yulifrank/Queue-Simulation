@@ -1,0 +1,14 @@
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\bin\Debug\net8.0\Queue Simulation.exe
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\bin\Debug\net8.0\Queue Simulation.deps.json
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\bin\Debug\net8.0\Queue Simulation.runtimeconfig.json
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\bin\Debug\net8.0\Queue Simulation.dll
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\bin\Debug\net8.0\Queue Simulation.pdb
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\obj\Debug\net8.0\Queue Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\obj\Debug\net8.0\Queue Simulation.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\obj\Debug\net8.0\Queue Simulation.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\obj\Debug\net8.0\Queue Simulation.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\obj\Debug\net8.0\Queue Simulation.dll
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\obj\Debug\net8.0\refint\Queue Simulation.dll
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\obj\Debug\net8.0\Queue Simulation.pdb
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\obj\Debug\net8.0\Queue Simulation.genruntimeconfig.cache
+C:\Users\user1\Documents\תכנות שנה ג\פרויקטים שונים\Queue Simulation\Queue Simulation\obj\Debug\net8.0\ref\Queue Simulation.dll
